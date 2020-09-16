@@ -1,2 +1,2 @@
 # Ball-on-plate-PID
-!(https://github.com/ttopcic/Ball-on-plate-PID/blob/pictures/system.jpg?raw=true)
+![alt text](https://github.com/ttropcic/Ball-on-plate-PID/blob/master/Pictures/system.jpg)
